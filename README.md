@@ -1,2 +1,0 @@
-# Mytelegrambot
-Bot create public
